@@ -1,0 +1,10 @@
+Started by user [8mha:////4PQHdkcrVKhrUfzmyK/9//fOTchH1eUOdF9nTr7Wey0GAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9vPyyxDwAQbvub8AAAAA=[0mnovan hariman
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/jenkins_backup
+[jenkins_backup] $ /bin/bash /tmp/jenkins2256160184624806260.sh
+fatal: Unable to create '/var/lib/jenkins/.git/index.lock': Permission denied
+fatal: Unable to create '/var/lib/jenkins/.git/index.lock': Permission denied
+fatal: Unable to create '/var/lib/jenkins/.git/index.lock': Permission denied
+fatal: could not read Username for 'https://github.com': No such device or address
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,5 +1,6 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <project>
+  <actions/>
   <description></description>
   <keepDependencies>false</keepDependencies>
   <properties/>
@@ -18,10 +19,14 @@
     <hudson.tasks.Shell>
       <command>#!/bin/bash
 # Jenkins Configuraitons Directory
-cd $JENKINS_HOME
+#cd $JENKINS_HOME
+
+cd /var/lib/jenkins/
 
 # Add general configurations, job configurations, and user content
-git add -- *.xml jobs/*/*.xml userContent/* ansible/*
+#git add -- *.xml jobs/*/*.xml userContent/* ansible/*
+
+git add -- *.xml jobs/*/*.xml userContent/*
 
 # only add user configurations if they exist
 if [ -d users ]; then
