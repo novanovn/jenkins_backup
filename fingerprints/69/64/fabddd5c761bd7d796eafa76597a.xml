@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-26 07:14:26.65 UTC</timestamp>
+  <original>
+    <name>Deploy_on_Docker_svr/com.example.maven-project:server</name>
+    <number>3</number>
+  </original>
+  <md5sum>6964fabddd5c761bd7d796eafa76597a</md5sum>
+  <fileName>com.example.maven-project:server.jar</fileName>
+  <usages>
+    <entry>
+      <string>Deploy_on_Docker_svr/com.example.maven-project:server</string>
+      <ranges>3</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Docker_svr</string>
+      <ranges>3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

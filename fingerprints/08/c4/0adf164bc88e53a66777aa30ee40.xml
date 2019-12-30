@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-20 09:37:10.617 UTC</timestamp>
+  <md5sum>08c40adf164bc88e53a66777aa30ee40</md5sum>
+  <fileName>Credential id=jenkins_admin name=admin/****** (jenkins_admin)</fileName>
+  <usages>
+    <entry>
+      <string>Deploy_on_Tomcat_Server</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

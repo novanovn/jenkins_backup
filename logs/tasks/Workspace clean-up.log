@@ -1,0 +1,16 @@
+Started at Sat Dec 28 12:36:03 WIB 2019
+Checking Deploy_on_Container
+Checking Deploy_on_Container_using_ansible
+Checking Deploy_on_Docker_Container_Using_Ansible_Playbook
+Checking Deploy_on_Docker_svr
+Checking Deploy_on_Tomcat_Server
+Checking My_First_Job
+Finished at Sat Dec 28 12:36:03 WIB 2019. 11ms
+Started at Sun Dec 29 12:36:03 WIB 2019
+Checking Deploy_on_Container
+Checking Deploy_on_Container_using_ansible
+Checking Deploy_on_Docker_Container_Using_Ansible_Playbook
+Checking Deploy_on_Docker_svr
+Checking Deploy_on_Tomcat_Server
+Checking My_First_Job
+Finished at Sun Dec 29 12:36:03 WIB 2019. 2ms

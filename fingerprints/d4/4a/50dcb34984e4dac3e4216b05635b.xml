@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-26 07:15:19.626 UTC</timestamp>
+  <original>
+    <name>Deploy_on_Tomcat_Server/com.example.maven-project:webapp</name>
+    <number>8</number>
+  </original>
+  <md5sum>d44a50dcb34984e4dac3e4216b05635b</md5sum>
+  <fileName>com.example.maven-project:webapp.war</fileName>
+  <usages>
+    <entry>
+      <string>Deploy_on_Tomcat_Server</string>
+      <ranges>8</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Tomcat_Server/com.example.maven-project:webapp</string>
+      <ranges>8</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

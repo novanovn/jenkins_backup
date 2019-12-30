@@ -1,0 +1,10 @@
+Started on Dec 26, 2019 2:14:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision 3070762a604023d3c171635c9d50ed939c180660 (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h -- https://github.com/novanovn/hello-world.git # timeout=10
+Found 1 remote heads on https://github.com/novanovn/hello-world.git
+[poll] Latest remote head revision on refs/heads/master is: 8e9a86c6ea7b9b7930fcde883276eb39cd88448c
+Done. Took 0.94 sec
+Changes found

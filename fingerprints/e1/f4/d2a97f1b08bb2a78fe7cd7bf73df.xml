@@ -1,0 +1,49 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-20 09:16:19.289 UTC</timestamp>
+  <md5sum>e1f4d2a97f1b08bb2a78fe7cd7bf73df</md5sum>
+  <fileName>org.hamcrest:hamcrest-core-1.2.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>Deploy_on_Container</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Docker_Container_Using_Ansible_Playbook/com.example.maven-project:server</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Container_using_ansible</string>
+      <ranges>1-6</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Tomcat_Server</string>
+      <ranges>1-9</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Container/com.example.maven-project:server</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Docker_svr/com.example.maven-project:server</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Tomcat_Server/com.example.maven-project:server</string>
+      <ranges>1-9</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Container_using_ansible/com.example.maven-project:server</string>
+      <ranges>1-6</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Docker_svr</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>Deploy_on_Docker_Container_Using_Ansible_Playbook</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

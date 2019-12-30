@@ -1,0 +1,3 @@
+[filesystem "Private Build|1.8.0_232|/dev/mapper/localhost--vg-root"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 6356 microseconds

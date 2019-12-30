@@ -1,0 +1,7 @@
+Started by user [8mha:////4PQHdkcrVKhrUfzmyK/9//fOTchH1eUOdF9nTr7Wey0GAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9vPyyxDwAQbvub8AAAAA=[0mnovan hariman
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/My_First_Job
+[My_First_Job] $ /bin/sh -xe /tmp/jenkins662316565882778202.sh
++ echo /usr/lib/jvm/java-1.8.0-openjdk-amd64
+/usr/lib/jvm/java-1.8.0-openjdk-amd64
+Finished: SUCCESS
